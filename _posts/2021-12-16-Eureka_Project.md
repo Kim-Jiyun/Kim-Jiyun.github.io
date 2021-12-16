@@ -3,7 +3,7 @@ layout: post
 title:  "Eureka_Project"
 ---
 
-# (과제) Make your git Topic 배운 내용 정리
+## (과제) Make your git Topic 배운 내용 정리
 
 ## Git & Github
 - Git은 분산 버전 관리 시스템이다
