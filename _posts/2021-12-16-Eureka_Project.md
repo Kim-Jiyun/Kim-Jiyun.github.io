@@ -4,8 +4,6 @@ title:  "Eureka_Project"
 comments: true
 ---
 
-
-
 ## (과제) Make your git Topic 배운 내용 정리
 
 ## Git & Github
