@@ -11,4 +11,4 @@ Kookmin University/SW/20212983
 
 ### Contact me
 
-[emailkwldbs1118@kookmin.ac.kr]
+[email: kwldbs1118@kookmin.ac.kr]
