@@ -11,7 +11,7 @@ Make your git! - Git BLog 만드는 과정 기술
 5. 댓글 기능을 구현하기 위해 Disqus 가입하고 세팅
 6. config.yml에 key-value 추가
 7. layouts/post.html에 Universal Code를 복사하고 주석처리를 해제하고 PAGE_URL과 PAGE_IDENTIFER를 설정
-8. 그리고 Universal Code의 맨 앞에는 {% if page.comments %}, <h2>Comments</h2>를, 맨 뒤에는 {% endif %}를 추가
+8. 그리고 Universal Code의 맨 앞에는 "{% if page.comments %}", "<h2>Comments</h2>"를, 맨 뒤에는 "{% endif %}"를 추가
 9. 아까 만들어둔 2021-12-16-Eureka_Project.md에 comments: true 를 해줘서 댓글 기능 구현
 10. Google Analytics를 하기위해 Google Analytics 계정 생성
 11. Google Analytics에서 속성 설정(이름, 시간대 등등)
